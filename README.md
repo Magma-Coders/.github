@@ -26,4 +26,33 @@
 
 ---
 
-⭐ Ставь звёзды на наши проекты!
+## 🇬🇧 In English
+
+# magma-code 🚀
+
+Organization of developer **MrKhaimi**. Projects in cybersecurity and software development are published here.
+
+## 🦆 Our projects
+
+- **[MagmaKey](https://github.com/MrKhaimi/MagmaKey)** — a password generator with lava animation. It doesn't store or send your passwords to third parties and works completely offline.
+- **Session Guard** *(in development)* — protection of Telegram accounts from hacking.
+
+## 🎯 What's coming
+
+- Open source code
+- Releases and updates
+- Security tools
+
+## 📫 Contacts
+
+- **TikTok (official):** [@mrkhaimi.magma](https://tiktok.com/@mrkhaimi.magma)
+- **TikTok (second):** [@magma.code](https://tiktok.com/@magma.code)
+- **Telegram:** [t.me/MrKhaimi](https://t.me/MrKhaimi)
+- **Founder's GitHub:** [MrKhaimi](https://github.com/MrKhaimi)
+
+## ⚠️ Important
+
+This is the official MrKhaimi organization. I don't have any other TikTok accounts or organizations.
+
+---
+⭐ Star our projects if you like them!
