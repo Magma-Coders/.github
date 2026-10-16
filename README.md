@@ -15,9 +15,10 @@
 
 ## 📫 Контакты
 
+- **Telegram-канал Magma:** [t.me/MagmaCode](https://t.me/MagmaCode)
 - **TikTok (официальный):** [@mrkhaimi.magma](https://tiktok.com/@mrkhaimi.magma)
 - **TikTok (второй):** [@magma.code](https://tiktok.com/@magma.code)
-- **Telegram:** [t.me/MrKhaimi](https://t.me/MrKhaimi)
+- **Telegram (личный):** [t.me/MrKhaimi](https://t.me/MrKhaimi)
 - **GitHub основателя:** [MrKhaimi](https://github.com/MrKhaimi)
 
 ## ⚠️ Важно
@@ -45,9 +46,10 @@ Organization of developer **MrKhaimi**. Projects in cybersecurity and software d
 
 ## 📫 Contacts
 
+- **Telegram channel Magma:** [t.me/MagmaCode](https://t.me/MagmaCode)
 - **TikTok (official):** [@mrkhaimi.magma](https://tiktok.com/@mrkhaimi.magma)
 - **TikTok (second):** [@magma.code](https://tiktok.com/@magma.code)
-- **Telegram:** [t.me/MrKhaimi](https://t.me/MrKhaimi)
+- **Telegram (personal):** [t.me/MrKhaimi](https://t.me/MrKhaimi)
 - **Founder's GitHub:** [MrKhaimi](https://github.com/MrKhaimi)
 
 ## ⚠️ Important
